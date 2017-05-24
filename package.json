@@ -1,0 +1,27 @@
+{
+  "name": "cwwc-demo",
+  "version": "0.0.0",
+  "description": "Descrip from command line for CWWC Intro to Node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mariah-akinbi/Intro-to-Node.git"
+  },
+  "keywords": [
+    "test",
+    "learn",
+    "build"
+  ],
+  "author": "Mariah Bukola Akinbi <mariah.akinbi@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mariah-akinbi/Intro-to-Node/issues"
+  },
+  "homepage": "https://github.com/mariah-akinbi/Intro-to-Node#readme",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
+}
